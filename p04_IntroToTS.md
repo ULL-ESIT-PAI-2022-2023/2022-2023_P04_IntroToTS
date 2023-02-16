@@ -1,11 +1,14 @@
-# Práctica 3. Programas simples. Exercism.
+# Práctica 4. Introducción a TypeScript. Unit testing con Jest.
 ### Factor de ponderación: 4
 
 ### Objetivos
 Los objetivos de esta práctica son:
-* Conocer y configurar el entorno de trabajo de Exercism
-* Ser capaz de desarrollar programas simples en JavaScript en el entorno Linux de la VM de la asignatura usando
-  Node.js
+* Configurar el entorno de trabajo en la máquina virtual Linux de la asignatura para ejecutar programas en TypeScript.
+* Ser capaz de desarrollar programas simples en TypeScript en el entorno Linux de la VM de la asignatura usando
+  `ts-node`
+* Ser capaz de desarrollar y ejecutar test unitarios utilizando Jest
+[Jest](https://jestjs.io/)
+
 
 ### Rúbrica de evaluacion del ejercicio
 Se señalan a continuación los aspectos más relevantes (la lista no es exhaustiva)
