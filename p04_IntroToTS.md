@@ -31,14 +31,14 @@ y que es capaz de generar documentación para sus programas utilizando la herram
 * Acreditar que es capaz de editar ficheros de forma remota en su VM usando Visual Studio Code
 
 ## Introducción a TypeScript
-TypeScript es un superconjunto de JavaScript. 
+TypeScript (TS) es un superconjunto de JavaScript (JS). 
 No se trata de un lenguaje de programación completamente nuevo, sino que ha sido diseñado 
-partiendo de JavaScript, tomándolo como base y añadiéndole nuevas características y funcionalidades, 
+partiendo de JS, tomándolo como base y añadiéndole nuevas características y funcionalidades, 
 lo que permite desarrollar código de un modo más sencillo, limpio y libre de errores.
 
 TypeScript no es solo un lenguaje de programación, sino un traductor que permite generar código fuente 
-en JavaScript a partir de código fuente escrito en TypeScript. 
-Como su nombre indica, TypeScript permite utilizar tipos de datos estáticos. 
+en JavaScript a partir de código fuente escrito en TS. 
+Como su nombre indica, TS permite utilizar tipos de datos estáticos. 
 lo cual es muy relevante, puesto que los tipos de datos estáticos permiten detectar errores en el código 
 en fases más tempranas del desarrollo del software y no, por ejemplo, en tiempo de ejecución, cuando el 
 software ya se encuentra en producción.
@@ -50,6 +50,9 @@ A continuación estudie las secciones 1 (**Getting Started**), 2 (**Basic Types*
 [TypeScript Tutorial](https://www.typescripttutorial.net/)
 No deje de revisar la sección 3 (**Control Flow Statements**) del tutorial, aunque la sintaxis y semántica de las 
 sentencias de control en TS son las mismas que ya conoce de JS.
+En el aula virtual de PAI encontrará también las transparencias
+[TypeScript Functions](https://campusingenieriaytecnologia2223.ull.es/mod/url/view.php?id=27312)
+que debe estudiar.
 En el material anterior no es necesario que estudie, por ahora, nada relativo a programación orientda a objetos en
 la implementación que TS realiza de este paradigma.
 
