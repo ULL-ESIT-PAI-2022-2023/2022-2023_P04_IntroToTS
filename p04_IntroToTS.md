@@ -8,9 +8,9 @@ Los objetivos de esta práctica son:
   `ts-node`
 * Ser capaz de desarrollar y ejecutar test unitarios utilizando
   [Jest](https://jestjs.io/)
-* Ser capaz de generar documentació para sus programas TypeScript utilizando
+* Ser capaz de generar documentación para sus programas TypeScript utilizando
   [TypeDoc](https://typedoc.org/)
-
+  y de visualizar dicha documentación en un servidor web
 
 ### Rúbrica de evaluacion del ejercicio
 Se señalan a continuación los aspectos más relevantes (la lista no es exhaustiva)
@@ -116,19 +116,15 @@ Aparte de los tests públicos de Jutge, incluya al menos un test test adicional 
 considere relevantes.
 Si su solución se basa en varias funciones, desarrolle tests para cada una de ellas.
 
-1. [P29973](https://jutge.org/problems/P29973) Triangle
-2. [P34279](https://jutge.org/problems/P34279) Add one Second.
-3. [P51126](https://jutge.org/problems/P51126) Intervals (I)
-4. [P33839](https://jutge.org/problems/P33839) Sum of Digits. Para este problema, simplifique la salida de
+1. [P34279](https://jutge.org/problems/P34279) Add one Second.
+2. [P51126](https://jutge.org/problems/P51126) Intervals (I)
+3. [P33839](https://jutge.org/problems/P33839) Sum of Digits. Para este problema, simplifique la salida de
 modo que ésta se limite a un único número (la suma de los dígitos).
-5. [P80660](https://jutge.org/problems/P80660) The sequence of Collatz
-
+4. [P80660](https://jutge.org/problems/P80660) The sequence of Collatz
+5. [P91173](https://jutge.org/problems/P91173_en) Collatz pseudo-sequences (1)
 6. [P11916](https://jutge.org/problems/P11916_en) Approximation of e. Simplifique la salida del programa para
 que se limite a un solo número en punto flotante (el valor de e).
-7. [P67268](https://jutge.org/problems/P67268_en) Reverse of sequences
-8. [P50497](https://jutge.org/problems/P50497_en) Is Palindrome
-9. [P76024](https://jutge.org/problems/P76024_en) Sum of fractions
-10. [P17179](https://jutge.org/problems/P17179_en) Statistical measures
+7. [P76024](https://jutge.org/problems/P76024_en) Sum of fractions
 
 ## TypeDoc
 [TypeDoc](https://typedoc.org/)
@@ -150,6 +146,13 @@ del profesor
 [Eduardo Segredo](https://portalciencia.ull.es/investigadores/80784/detalle)
 o el
 [TypeDoc Tutorial](https://cancerberosgx.github.io/javascript-documentation-examples/examples/typedoc-tutorial-basic/docs/docco/src/index.html#:~:text=TypeDoc%20is%20an%20API%20documentation,HTML%20documentation%20website%20for%20you.)
+
+Para los problemas 
+4. [P80660](https://jutge.org/problems/P80660) The sequence of Collatz
+5. [P91173](https://jutge.org/problems/P91173_en) Collatz pseudo-sequences (1)
+7. [P76024](https://jutge.org/problems/P76024_en) Sum of fractions
+del apartado anterior, genere con TypeDoc la documentación del programa y consiga que la página web (HTML) correspondiente
+a la documentación esté disponible a través de un servidor web en su máquina virtual de la asignatura.
 
 ## Referencias
 * [Exercism](https://exercism.io/)
