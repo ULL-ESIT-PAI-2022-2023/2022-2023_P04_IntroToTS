@@ -139,16 +139,18 @@ npm install --save-dev typedoc
 npx typedoc src/index.ts
 ```
 Para un conocimiento más exhaustivo de la herramienta revise el vídeo
-[Configuracioy y uso de TypeDoc](https://drive.google.com/file/d/19LLLCuWg7u0TjjKz9q8ZhOXgbrKtPUme/view)
+[Configuración y y uso de TypeDoc](https://drive.google.com/file/d/19LLLCuWg7u0TjjKz9q8ZhOXgbrKtPUme/view)
 del profesor 
 [Eduardo Segredo](https://portalciencia.ull.es/investigadores/80784/detalle)
-o el
+y/o el
 [TypeDoc Tutorial](https://cancerberosgx.github.io/javascript-documentation-examples/examples/typedoc-tutorial-basic/docs/docco/src/index.html#:~:text=TypeDoc%20is%20an%20API%20documentation,HTML%20documentation%20website%20for%20you.)
 
 Para los problemas 
+
 4. [P80660](https://jutge.org/problems/P80660) The sequence of Collatz
 5. [P91173](https://jutge.org/problems/P91173_en) Collatz pseudo-sequences (1)
 7. [P76024](https://jutge.org/problems/P76024_en) Sum of fractions
+
 del apartado anterior, genere con TypeDoc la documentación en formato HTML para cada uno de estos programas y haga que dicha documentación 
 sea accesible a través de un servidor web en su máquina virtual de la asignatura.
 
