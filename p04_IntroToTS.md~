@@ -62,7 +62,7 @@ El el directorio principal de esta práctica hallará sendos ficheros
 Modifique estos ficheros libremente, si resultara necesario.
 XXX
 
-### TypeDoc
+### Unit Testing con Jest
 [TypeDoc](https://typedoc.org/)
 es una generador de documentación para proyectos TypeScript, similar a JsDoc o javadoc.
 Funciona del mismo modo que JSDoc: la herramienta extrae los comentarios de documentación directamente del código fuente
@@ -84,7 +84,7 @@ o el
 [TypeDoc Tutorial](https://cancerberosgx.github.io/javascript-documentation-examples/examples/typedoc-tutorial-basic/docs/docco/src/index.html#:~:text=TypeDoc%20is%20an%20API%20documentation,HTML%20documentation%20website%20for%20you.)
 
 
-### Unit Testing con Jest
+
 Únase al
 [TypeScript track in Exercism](https://exercism.org/tracks/typescript)
 y realice en él todos los ejercicios que sea capaz, particularmente aquellos que ya haya realizado en JavaScript.
