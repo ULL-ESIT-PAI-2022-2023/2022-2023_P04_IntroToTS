@@ -103,9 +103,7 @@ haciendo que la entrada que requieran los programas que solucionan el problema s
 Para capturar los parámetros de línea de comando ejecutando el programa en `ts-node` pueden seguir usando
 `process.argv`
 
-Haga también que los programas incluyan documentación en formato JSDoc. 
-Genere la documentación en formato HTML para cada uno de los programas y haga que dicha documentación 
-sea accesible a través de una web alojada en su máquina virtual.
+Haga también que los programas incluyan documentación en formato JSDoc (TypeDoc). 
 Se propone desarrollar una página *índice* desde la que se enlacen las páginas de documentación de cada uno de
 estos programas.
 
@@ -151,8 +149,8 @@ Para los problemas
 4. [P80660](https://jutge.org/problems/P80660) The sequence of Collatz
 5. [P91173](https://jutge.org/problems/P91173_en) Collatz pseudo-sequences (1)
 7. [P76024](https://jutge.org/problems/P76024_en) Sum of fractions
-del apartado anterior, genere con TypeDoc la documentación del programa y consiga que la página web (HTML) correspondiente
-a la documentación esté disponible a través de un servidor web en su máquina virtual de la asignatura.
+del apartado anterior, genere con TypeDoc la documentación en formato HTML para cada uno de estos programas y haga que dicha documentación 
+sea accesible a través de un servidor web en su máquina virtual de la asignatura.
 
 ## Referencias
 * [Exercism](https://exercism.io/)
