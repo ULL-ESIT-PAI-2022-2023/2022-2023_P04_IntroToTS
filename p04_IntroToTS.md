@@ -8,7 +8,8 @@ Los objetivos de esta práctica son:
   `ts-node`
 * Ser capaz de desarrollar y ejecutar test unitarios utilizando
   [Jest](https://jestjs.io/)
-* Ser capaz de generar documentació para sus programas TypeScript utilizando TypeDoc
+* Ser capaz de generar documentació para sus programas TypeScript utilizando
+  [TypeDoc](https://typedoc.org/)
 
 
 ### Rúbrica de evaluacion del ejercicio
@@ -71,29 +72,7 @@ Consulte la
 para conocer el significado de algunas de las opciones disponibles en el fichero `tsconfig.json`
 Modifique estos ficheros libremente, si le resulta conveniente.
 
-### TypeDoc
-[TypeDoc](https://typedoc.org/)
-es una generador de documentación para proyectos TypeScript, similar a JsDoc o javadoc.
-Funciona del mismo modo que JSDoc: la herramienta extrae los comentarios de documentación directamente del código fuente
-genera un sitio web de documentación HTML para el proyecto.
-
-Para comenzar a usar TypeDoc simplemente ejecute los siguientes comandos:
-```
-# Install
-npm install --save-dev typedoc
-
-# Execute typedoc on your project
-npx typedoc src/index.ts
-```
-Para un conocimiento más exhaustivo de la herramienta revise el vídeo
-[Configuracioy y uso de TypeDoc](https://drive.google.com/file/d/19LLLCuWg7u0TjjKz9q8ZhOXgbrKtPUme/view)
-del profesor 
-[Eduardo Segredo](https://portalciencia.ull.es/investigadores/80784/detalle)
-o el
-[TypeDoc Tutorial](https://cancerberosgx.github.io/javascript-documentation-examples/examples/typedoc-tutorial-basic/docs/docco/src/index.html#:~:text=TypeDoc%20is%20an%20API%20documentation,HTML%20documentation%20website%20for%20you.)
-
-
-### Unit Testing con Jest
+### Ejercicios simples de TypeScript en Exercism
 Únase al
 [TypeScript track in Exercism](https://exercism.org/tracks/typescript)
 y realice en él todos los ejercicios que sea capaz, particularmente aquellos que ya haya realizado en JavaScript.
@@ -116,8 +95,6 @@ se han estudiado.
 
 Recuerde que Exercism también utiliza Jest como plataforma de testing para los ejercicios de TypeScript.
 Para cada problema, preste atención a los tests que su código ha de superar y la implementación de los mismos.
-
-
 
 ### Unit Testing con Jest
 Realice en TypeScript cada uno de los siguientes problemas de
@@ -152,6 +129,27 @@ que se limite a un solo número en punto flotante (el valor de e).
 8. [P50497](https://jutge.org/problems/P50497_en) Is Palindrome
 9. [P76024](https://jutge.org/problems/P76024_en) Sum of fractions
 10. [P17179](https://jutge.org/problems/P17179_en) Statistical measures
+
+## TypeDoc
+[TypeDoc](https://typedoc.org/)
+es una generador de documentación para proyectos TypeScript, similar a JsDoc o javadoc.
+Funciona del mismo modo que JSDoc: la herramienta extrae los comentarios de documentación directamente del código fuente
+genera un sitio web de documentación HTML para el proyecto.
+
+Para comenzar a usar TypeDoc simplemente ejecute los siguientes comandos:
+```
+# Install
+npm install --save-dev typedoc
+
+# Execute typedoc on your project
+npx typedoc src/index.ts
+```
+Para un conocimiento más exhaustivo de la herramienta revise el vídeo
+[Configuracioy y uso de TypeDoc](https://drive.google.com/file/d/19LLLCuWg7u0TjjKz9q8ZhOXgbrKtPUme/view)
+del profesor 
+[Eduardo Segredo](https://portalciencia.ull.es/investigadores/80784/detalle)
+o el
+[TypeDoc Tutorial](https://cancerberosgx.github.io/javascript-documentation-examples/examples/typedoc-tutorial-basic/docs/docco/src/index.html#:~:text=TypeDoc%20is%20an%20API%20documentation,HTML%20documentation%20website%20for%20you.)
 
 ## Referencias
 * [Exercism](https://exercism.io/)
