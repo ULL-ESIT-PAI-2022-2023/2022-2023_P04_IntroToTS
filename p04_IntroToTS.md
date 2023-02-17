@@ -1,7 +1,6 @@
 # Práctica 4. Introducción a TypeScript. Unit testing con Jest.
 ### Factor de ponderación: 4
 
-Buscar XXX XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXx
 ### Objetivos
 Los objetivos de esta práctica son:
 * Configurar el entorno de trabajo en la máquina virtual Linux de la asignatura para ejecutar programas en TypeScript.
@@ -62,8 +61,12 @@ Para la ejecución de esos programas practique tanto a utilizar el compilador de
 `ts-node`, el motor de ejecución de TS para Node.js.
 El el directorio principal de esta práctica hallará sendos ficheros
 `tsconfig.json` y `package.json` para trabajar con TypeScript.
-Modifique estos ficheros libremente, si resultara necesario.
-XXX
+Examine el contenido de esos ficheros y cree un subdirectorio dentro de `src` para cada uno de los programas
+que desarrolle en esta práctica.
+Consulte la
+[TSConfig Reference](https://www.typescriptlang.org/tsconfig)
+para conocer el significado de algunas de las opciones disponibles en el fichero `tsconfig.json`
+Modifique estos ficheros libremente, si le resulta conveniente.
 
 ### TypeDoc
 [TypeDoc](https://typedoc.org/)
@@ -151,10 +154,9 @@ que se limite a un solo número en punto flotante (el valor de e).
 * [Exercism](https://exercism.io/)
 * [Introduction to TypeScript](https://github.com/alu0101329888/Introduction-to-TypeScript)
 * [TypeScript Tutorial](https://www.typescripttutorial.net/)
+* [TSConfig Reference](https://www.typescriptlang.org/tsconfig)
+* [TypeDoc](https://typedoc.org/)
 * [TypeDoc Tutorial](https://cancerberosgx.github.io/javascript-documentation-examples/examples/typedoc-tutorial-basic/docs/docco/src/index.html#:~:text=TypeDoc%20is%20an%20API%20documentation,HTML%20documentation%20website%20for%20you.)
-
-
-
 * [TypeScript track in Exercism](https://exercism.org/tracks/typescript)
 * [Google TypeScript Style Guide](https://google.github.io/styleguide/tsguide.html)
 * [Google JavaScript Style Guide](https://google.github.io/styleguide/jsguide.html)
