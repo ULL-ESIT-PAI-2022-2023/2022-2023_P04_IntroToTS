@@ -1,13 +1,14 @@
 # Práctica 4. Introducción a TypeScript. Unit testing con Jest.
-### Factor de ponderación: 4
+### Factor de ponderación: 5
 
 ### Objetivos
 Los objetivos de esta práctica son:
 * Configurar el entorno de trabajo en la máquina virtual Linux de la asignatura para ejecutar programas en TypeScript.
 * Ser capaz de desarrollar programas simples en TypeScript en el entorno Linux de la VM de la asignatura usando
   `ts-node`
-* Ser capaz de desarrollar y ejecutar test unitarios utilizando Jest
-[Jest](https://jestjs.io/)
+* Ser capaz de desarrollar y ejecutar test unitarios utilizando
+  [Jest](https://jestjs.io/)
+* Ser capaz de generar documentació para sus programas TypeScript utilizando TypeDoc
 
 
 ### Rúbrica de evaluacion del ejercicio
@@ -16,12 +17,14 @@ que se tendrán en cuenta a la hora de evaluar esta práctica:
 * Se valorará la realización de las diferentes tareas que se proponen
 * El alumnado debe ser capaz de resolver problemas tanto en JS como en TS en la plataforma Exercism subiendo sus soluciones a la misma.
 * Ser capaz de desarrollar tests unitarios para sus programas utilizando
-[Jest](https://jestjs.io/)
+  [Jest](https://jestjs.io/)
 * Acreditar que conoce la herramienta 
-[ESLint](https://eslint.org/)
+  [ESLint](https://eslint.org/)
 y que es capaz de trabajar con la misma en Visual Studio Code.
-* Acreditar que conoce la herramienta 
-[JSDoc](https://jsdoc.app/)
+* Acreditar que conoce las etiquetas de 
+  [JSDoc](https://jsdoc.app/)
+* Acreditar que es capaz de generar documentación para sus programas utilizando
+  [TypeDoc](https://typedoc.org/)
 y que es capaz de generar documentación para sus programas utilizando la herramienta.
 * El alumnado ha de acreditar que es capaz de desarrollar programas de la plataforma Jutge
 * Se comprobará que el código que el alumnado escribe se adhiere a las reglas de las Guías de Estilo de Google
